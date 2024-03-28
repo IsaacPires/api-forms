@@ -6,7 +6,7 @@ Através deste sistema é possível gerenciar formularios e respostas.
 Está integrado disparo de email para quando o cliente preenche todo o formulário e além disso possui um limitador de no máximo 100 respostas 
 de clientes por mês. (Ao responder uma pergunta apenas do formulário já conta como consumo).
 
-Foi abordada diferentes tecnicas para solucionar problemas encontrados no desafio:
+Foi abordada diferentes recursos para solucionar os desafios:
 ----
 - Helpers;
 - Repositories;
@@ -26,7 +26,7 @@ Existem alguns seeders a serem rodados, realize neste ordem para que possa se ge
 - QuestionSeeder;
 - AnswersSeeder.
 
-Os outro seeders não possuem uma ordem necessária rode como preferir.
+Os outro seeders não possuem uma ordem necessária, rode como preferir.
 
 ----------
 
