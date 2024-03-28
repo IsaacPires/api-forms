@@ -6,6 +6,17 @@ Através deste sistema é possível gerenciar formularios e respostas.
 Está integrado disparo de email para quando o cliente preenche todo o formulário e além disso possui um limitador de no máximo 100 respostas 
 de clientes por mês. (Ao responder uma pergunta apenas do formulário já conta como consumo).
 
+Foi abordada diferentes tecnicas para solucionar problemas encontrados no desafio:
+----
+- Helpers;
+- Repositories;
+- Listeners;
+- DB Index. (Melhoria na performance por conta do alto volume de dados)
+
+Documentação:
+-------
+https://documenter.getpostman.com/view/22555988/2sA35Ea32w
+
 ---------
 Instruções iniciais
 
